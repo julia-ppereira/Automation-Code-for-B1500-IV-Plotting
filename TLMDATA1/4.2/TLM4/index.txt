@@ -1,0 +1,8 @@
+I/V Sweep (2-point)_Julia [(86) ; 7/9/2025 12:02:13 PM]	->	Measurment-7.txt
+I/V Sweep (2-point)_Julia [(85) ; 7/9/2025 12:01:57 PM]	->	Measurment-6.txt
+I/V Sweep (2-point)_Julia [(84) ; 7/9/2025 12:01:43 PM]	->	Measurment-5.txt
+I/V Sweep (2-point)_Julia [(83) ; 7/9/2025 12:01:25 PM]	->	Measurment-4.txt
+I/V Sweep (2-point)_Julia [(82) ; 7/9/2025 12:01:10 PM]	->	Measurment-3.txt
+I/V Sweep (2-point)_Julia [(81) ; 7/9/2025 12:00:50 PM]	->	Measurment-2.txt
+I/V Sweep (2-point)_Julia [(80) ; 7/9/2025 12:00:29 PM]	->	Measurment.txt
+I/V Sweep (2-point)_Julia [(79) ; 7/9/2025 11:59:57 AM]	->	Measurment-0.txt

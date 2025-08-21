@@ -1,0 +1,3 @@
+Measurements taken from left to right, bigger spacing to smaller spacing. 
+Measurement 0 is right before the big big space. 
+Which looks the same as measurement 7? thinnest. Oh welp
